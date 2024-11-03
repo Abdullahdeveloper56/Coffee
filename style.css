@@ -1,0 +1,47 @@
+.imh:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.imh{
+    transition: 1s;
+}
+@media only screen and (max-width: 550px) {
+    .papa{
+        flex-direction: row;
+    }
+}
+.img1:hover{
+    transform: scale(0.9);
+    transition: 1s;
+}
+.img1{
+    transition: 1s;
+}
+.img2:hover{
+    transform: scale(0.9);
+    transition: 1s;
+}
+.img2{
+    transition: 1s;
+}
+.img3:hover{
+    transform: scale(0.9);
+    transition: 1s;
+}
+.img3{
+    transition: 1s;
+}
+.img4:hover{
+    transform: scale(0.9);
+    transition: 1s;
+}
+.img4{
+    transition: 1s;
+}
+.img5:hover{
+    transform: scale(0.9);
+    transition: 1s;
+}
+.img5{
+    transition: 1s;
+}
